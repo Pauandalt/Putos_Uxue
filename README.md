@@ -1,5 +1,5 @@
 # Estos son los puntos de Uxue:
 
-# +15
+# +17
 
 ![Alt text](Uxue_foto.jpg)
